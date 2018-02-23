@@ -8,8 +8,8 @@ Feature: Search
     When I search for '<ci_name>'
     Then I see the CI searched on top of the list
     
-    Examples:
-    | ci_name  |
+ Examples:
+  | ci_name  |
     | CircleCI |
-    | Jenkins  |
+  | Jenkins  |
     |TesteCity | 
