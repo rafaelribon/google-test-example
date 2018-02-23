@@ -12,3 +12,4 @@ Feature: Search
     | ci_name  |
     | CircleCI |
     | Jenkins  |
+    |TesteCity | 
